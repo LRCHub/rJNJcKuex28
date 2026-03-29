@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "消せない罪",
+  "base_artist": "Nana Kitade",
+  "createdAt": "2026-03-29T08:14:32.128783Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "消せない罪",
+      "artist": "北出菜奈",
+      "has_synced": true,
+      "path": "select/01_消せない罪_北出菜奈.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "消せない罪",
+      "artist": "Nana Kitade (北出菜奈)",
+      "has_synced": true,
+      "path": "select/02_消せない罪_Nana_Kitade_(北出菜奈).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "消せない罪",
+      "artist": "Nana Kitade",
+      "has_synced": true,
+      "path": "select/03_消せない罪_Nana_Kitade.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "消せない罪",
+      "artist": "北出菜奈",
+      "has_synced": true,
+      "path": "select/04_消せない罪_北出菜奈.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "消せない罪 （鋼の錬金術師 ED）",
+      "artist": "Mika Ogawa",
+      "has_synced": true,
+      "path": "select/05_消せない罪_(鋼の錬金術師_ED)_Mika_Ogawa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "消せない罪",
+      "artist": "北出菜奈",
+      "has_synced": true,
+      "path": "select/06_消せない罪_北出菜奈.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "消せない罪 - Kesenai Tsumi",
+      "artist": "Nana Kitade",
+      "has_synced": true,
+      "path": "select/07_消せない罪_-_Kesenai_Tsumi_Nana_Kitade.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "消せない罪 (From \"鋼の錬金術師\")",
+      "artist": "Mika Ogawa",
+      "has_synced": true,
+      "path": "select/08_消せない罪_(From__鋼の錬金術師_)_Mika_Ogawa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "消せない罪",
+      "artist": "北出菜奈 & 西川進 feat. 96猫",
+      "has_synced": true,
+      "path": "select/09_消せない罪_北出菜奈_&_西川進_feat._96猫.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "消せない罪",
+      "artist": "Nana Kitade",
+      "has_synced": true,
+      "path": "select/10_消せない罪_Nana_Kitade.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "消せない罪 (第1期 ED)",
+      "artist": "Mika Ogawa",
+      "has_synced": true,
+      "path": "select/11_消せない罪_(第1期_ED)_Mika_Ogawa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "消せない罪 〜アイスクリーム天ぷら Ver.〜",
+      "artist": "Nana Kitade",
+      "has_synced": false,
+      "path": "select/12_消せない罪_〜アイスクリーム天ぷら_Ver.〜_Nana_Kitade.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "消せない罪 (feat. Kuroneko)",
+      "artist": "Kuroneko",
+      "has_synced": true,
+      "path": "select/13_消せない罪_(feat._Kuroneko)_Kuroneko.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "消せない罪　〜raw “breath” track〜",
+      "artist": "Nana Kitade",
+      "has_synced": false,
+      "path": "select/14_消せない罪_〜raw_“breath”_track〜_Nana_Kitade.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "消せない罪",
+      "artist": "北出 菜奈",
+      "has_synced": false,
+      "path": "select/pl_01_消せない罪_北出_菜奈.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "消せない罪",
+      "artist": "北出 菜奈",
+      "has_synced": false,
+      "path": "select/pl_02_消せない罪_北出_菜奈.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "消せない罪",
+      "artist": "北出 菜奈",
+      "has_synced": false,
+      "path": "select/pl_03_消せない罪_北出_菜奈.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "消せない罪",
+      "artist": "北出 菜奈",
+      "has_synced": false,
+      "path": "select/pl_04_消せない罪_北出_菜奈.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "消せない罪",
+      "artist": "北出 菜奈",
+      "has_synced": false,
+      "path": "select/pl_05_消せない罪_北出_菜奈.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "消せない罪",
+      "artist": "北出 菜奈",
+      "has_synced": false,
+      "path": "select/pl_06_消せない罪_北出_菜奈.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "消せない罪",
+      "artist": "北出 菜奈",
+      "has_synced": false,
+      "path": "select/pl_07_消せない罪_北出_菜奈.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "消せない罪",
+      "artist": "北出 菜奈",
+      "has_synced": false,
+      "path": "select/pl_08_消せない罪_北出_菜奈.txt"
+    }
+  ]
+}
